@@ -1,0 +1,3 @@
+build:
+	sui move build
+	
